@@ -1,0 +1,10 @@
+div.proguct {
+	float: left;
+	width: 29%;
+}
+
+footer {
+	clear: both;
+	height: 150px;
+	padding: 50px 0px 0px 0px;
+}
